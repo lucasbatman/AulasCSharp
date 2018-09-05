@@ -1,0 +1,5 @@
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.vbprojResolveAssemblyReference.cache
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.frmCalculadora.resources
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.Resources.resources
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\calculadora\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.Cache

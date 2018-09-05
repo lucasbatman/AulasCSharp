@@ -1,0 +1,9 @@
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\bin\Debug\Calcula Idade.exe.config
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\bin\Debug\Calcula Idade.exe
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\bin\Debug\Calcula Idade.pdb
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\obj\Debug\Calcula Idade.csprojResolveAssemblyReference.cache
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\obj\Debug\Calcula_Idade.Form1.resources
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\obj\Debug\Calcula_Idade.Properties.Resources.resources
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\obj\Debug\Calcula Idade.csproj.GenerateResource.Cache
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\obj\Debug\Calcula Idade.exe
+c:\users\lucas.gcrantunes\documents\visual studio 2015\Projects\Calcula Idade\Calcula Idade\obj\Debug\Calcula Idade.pdb
